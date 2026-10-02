@@ -1,0 +1,29 @@
+# Environment & Secrets (NEVER COMMIT)
+.env
+*.env
+*.env.local
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Large binary vector data & index caches (rebuilt automatically via ingest.py)
+data/cache/
+data/processed/
+
+# IDE & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

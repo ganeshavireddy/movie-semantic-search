@@ -1,0 +1,82 @@
+[
+  {
+    "query": "lonely robot compacts trash on abandoned Earth and falls in love with probe ship EVE",
+    "expected_title": "WALL-E"
+  },
+  {
+    "query": "thief extracts secrets from subconscious dream levels inception",
+    "expected_title": "Inception"
+  },
+  {
+    "query": "hacker Thomas Anderson learns reality is a simulated illusion created by machines",
+    "expected_title": "The Matrix"
+  },
+  {
+    "query": "LAPD detective Hanna tracks high-stakes professional bank robbery crew McCauley",
+    "expected_title": "Heat"
+  },
+  {
+    "query": "Italian-American mafia boss Vito Corleone and son Michael wage gang war in New York",
+    "expected_title": "The Godfather"
+  },
+  {
+    "query": "former NASA pilot travels through wormhole near Saturn to find new habitable planet",
+    "expected_title": "Interstellar"
+  },
+  {
+    "query": "hobbit Frodo Baggins journeys with Fellowship to destroy One Ring in Mount Doom",
+    "expected_title": "The Lord of the Rings: The Fellowship of the Ring"
+  },
+  {
+    "query": "hitmen Jules and Vincent, mob boss wife Mia overdose, boxer Butch pawn shop",
+    "expected_title": "Pulp Fiction"
+  },
+  {
+    "query": "cloned dinosaurs escape security fences on tropical island theme park",
+    "expected_title": "Jurassic Park"
+  },
+  {
+    "query": "impoverished Kim family infiltrates wealthy Park family mansion in Seoul",
+    "expected_title": "Parasite"
+  },
+  {
+    "query": "space probe EVE scans for plant vegetation on deserted Earth",
+    "expected_title": "WALL-E"
+  },
+  {
+    "query": "dream theft inside multi-layered dreams rainy city hotel fortress",
+    "expected_title": "Inception"
+  },
+  {
+    "query": "red pill Morpheus fights digital Agents led by Agent Smith in skyscraper",
+    "expected_title": "The Matrix"
+  },
+  {
+    "query": "downtown Los Angeles bank heist shoot-out LAPD airport confrontation",
+    "expected_title": "Heat"
+  },
+  {
+    "query": "Corleone crime family five families narcotics trade Sollozzo Sicily revenge",
+    "expected_title": "The Godfather"
+  },
+  {
+    "query": "black hole Gargantua gravitational time dilation tesseract quantum data Murph",
+    "expected_title": "Interstellar"
+  },
+  {
+    "query": "wizard Gandalf falls fighting Balrog in underground mines of Moria",
+    "expected_title": "The Lord of the Rings: The Fellowship of the Ring"
+  },
+  {
+    "query": "dancing hitman Vincent Vega and boss wife Mia Wallace dance contest heroin overdose",
+    "expected_title": "Pulp Fiction"
+  },
+  {
+    "query": "Tyrannosaurus Rex attacks tour car during tropical storm Isla Nublar",
+    "expected_title": "Jurassic Park"
+  },
+  {
+    "query": "secret basement bunker beneath wealthy mansion in Seoul tutor art therapist",
+    "expected_title": "Parasite"
+  }
+]
